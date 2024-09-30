@@ -1,6 +1,6 @@
 import mysql.connector
 from mysql.connector import Error
-print("  \n Sal Engineering & Technical Institute")
+print("  \n ABC college")
 print("---------------------------------------")
 print(" 1.Computer engineering")
 mydb=mysql.connector.connect(host="localhost",
